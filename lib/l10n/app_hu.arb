@@ -1,0 +1,193 @@
+{
+    "home" : "Kezdőlap",
+
+    "login" : "Belépés",
+
+    "logout" : "Kilépés",
+
+    "signin" : "Bejelentkezés",
+
+    "signup" : "Regisztrálj",
+
+    "staylogdin" : "Maradj bejelentkezve.",
+
+    "doyouhaveacc" : "Már regisztrált?",
+
+    "doyounothaveacc" : "Még nem regisztrált?",
+
+    "username" : "Felhasználónév",
+
+    "password" : "Jelszó",
+
+    "passwordagain" : "Jelszó megint",
+    
+    "firstname" : "Keresztnév",
+
+    "secondname" : "Vezetéknév",
+
+    "phonenum" : "Telefonszám",
+
+    "emailaddrs" : "Email cím",
+
+    "tooshortusername" : "Felhasználónév legalább 6 betű",
+
+    "tooshortpasw" : "A jeszó legalább hat karakter",
+
+    "paswnotmatch" : "Jelszó nem eggyezik",
+
+    "invalidchar" : "Nem megfelelő karakter",
+
+    "invalidemail" : "Érvénytelen email cím",
+
+    "invalidphone" : "Érvénytelen telefonszám",
+
+    "fieldreq" : "Kötelező mező",
+
+    "erroroccured" : "Hiba történt",
+
+    "cancel" : "Mégsem",
+
+    "logoutconfirm" : "Biztosan ki akar jelentkezni?",
+
+    "services" : "Szolgáltatások",
+
+    "servicesnotaw" : "Nincs elérhető szolgáltatás.",
+
+    "add" : "Hozzáadás",
+
+    "duration" : "Időtartam",
+
+    "servicedescription" : "Leírás",
+    
+    "price" : "Ár",
+
+    "delete" : "Törlés",
+
+    "confirmservicedel" : "Biztos vagy benne hogy törölni szeretnéd a szolgáltatást?",
+
+    "servicename" : "Szolgáltatás Név",
+
+    "servicetype" : "Szolgáltatás kategória",
+
+    "comment" : "Megjegyzés az árhoz",
+
+    "submit" : "Feltölt",
+
+    "menu" : "Menü",
+
+    "aboutme" : "Rólam",
+
+    "calendar" : "Naptár",
+
+    "myreservations" : "Foglalásaim",
+
+    "choosedate" : "Válassz dátumot",
+
+    "type" : "Típus",
+
+    "name" : "Név",
+
+    "submitted" : "Elküldött",
+
+    "confirmreservationdel" : "Biztos vagy benne hogy törölni szeretnéd ezt a Foglalást?",
+
+    "confirmappointmentdel" : "Biztos vagy benne hogy törölni szeretnéd azt az időpontot?",
+
+    "selectstarttime" : "Válassz kezdési időpontot",
+
+    "selectendtime" : "Válassz befejezési időpontot",
+
+    "timeperiod" : "Időtartam",
+
+    "noavailableappointment" : "Sajnos még nincs elérhető időpont",
+
+    "book" : "Foglal",
+
+    "confirm" : "Megerősít",
+
+    "bookinginfo" : "Folgalási információk",
+
+    "date" : "Dátum",
+
+    "finalquestionbooking" : "Biztosan le szeretnéd foglalni az időpontot?",
+
+    "startingtimeinval" : "Kezdeti idő a befejezés előtt van",
+
+    "invalidtimeererror" : "Már van időpont ebben az időintervallumban",
+
+    "noreservationavailable" : "Még nincsen elérhető folgalásod",
+
+    "service" : "Szolgáltatás",
+
+    "intro" : "Bevezető",
+
+    "location" : "Elhelyezkedés",
+
+    "county" : "Megye",
+
+    "exactadress" : "Cím",
+
+    "contact" : "Elérhetőség",
+
+    "shortintro" : "Rövid bemutatkozás",
+
+    "myvision" : "Látásmódom",
+
+    "educations" : "Képzettségeim",
+
+    "homescreenedit" : "Kezdőlap Szerkesztés",
+
+    "title" : "Cégnév",
+
+    "subtitle" : "Cég alnév",
+
+    "slogan" : "Szlogen",
+
+    "news" : "Újdonság",
+
+    "addvertisement" : "Reklám",
+
+    "aboutmescreenedit" : "Rólam Szerkesztés",
+
+    "editaccount" : "Fiók szerkesztés",
+
+    "changepasw" : "Jelszó Változtatás",
+
+    "newtext" : "Új",
+
+    "change" : "Megáltoztat",
+
+    "passwordconfirm" : "Biztosan megváltoztatod a jelszavad?",
+
+    "deleteyouraccount" : "Biztosan szeretnéd letörölni a fiókodat minden addattal eggyüt?",
+
+    "deleteaccountbutton" : "Töröld a fiókod minden infromációval eggyütt!",
+
+    "notcorrectusername" : "Helyten felhasználónév!",
+
+    "editusers" : "Felhasználók",
+
+    "nouseravailable" : "Nincs elérhető felhasználó",
+
+    "bann" : "Tiltás",
+
+    "allowuser" : "Engedélyezés",
+
+    "alluser" : "Összes",
+
+    "users" : "Felhasználó",
+
+    "bannedusers" : "Kitiltott",
+
+    "admins" : "Adminisztrátor",
+
+    "accesslevel" : "Jogosultság",
+
+    "minutes" : "perc",
+
+    "loadingtxt" : "Betöltés",
+
+    "imgnonavailable": "A kép nem elérhető",
+
+    "changepic" : "Kép megváltoztatás: "
+}

@@ -1,0 +1,481 @@
+{
+    "home" : "Home",
+    "@home" : {
+        "description" : "Name of home screen"
+    },
+
+    "login" : "Login",
+    "@login" : {
+        "description" : "Title to log in"
+    },
+    
+    "logout" : "Logout",
+    "@logout" : {
+        "description" : "Title to log out"
+    },
+
+    "signin" : "Sign In",
+    "@signin" : {
+        "description" : "Text to sign in"
+    },
+
+    "signup" : "Sign Up", 
+    "@signup" : {
+        "description" : "Text to sign up s new user"
+    },
+
+    "staylogdin" : "Stay signed in.",
+    "@staylogdin" : {
+        "description" : "Asking the user to stay authenticated"
+    },
+
+    "doyouhaveacc" : "Do you have an account?",
+    "@doyouhaveacc" : {
+        "description" : "Asking if the user has an account"
+    },
+
+    "doyounothaveacc" : "Do you not have an account?",
+    "@doyounothaveacc" : {
+        "description" : "Asking if the user dont have an account"
+    },
+
+    "username" : "Username",
+    "@username" : {
+        "description" : "Text for the username when logging in"
+    },
+
+    "password" : "Password",
+    "@password" : {
+        "description" : "Text for the password when logging in"
+    },
+
+    "passwordagain" : "Password again",
+    "@passwordagain" : {
+        "description" : "Text for the passwordagain  when logging in"
+    },
+
+    "firstname" : "First Name",
+    "@firstname" : {
+        "description" : "Text for the first name when signing up"
+    },
+
+    "secondname" : "Second Name",
+    "@secondname" : {
+        "description" : "Text for the second name when signing up"
+    },
+
+    "phonenum" : "Phone Number",
+    "@phonenum" : {
+        "description" : "Text for the phone number when signing up"
+    },
+
+    "emailaddrs" : "Email Address",
+    "@emailaddrs" : {
+        "description" : "Text for the email address when signing up"
+    },
+
+    "tooshortusername" : "Username has to be at least 6 characters",
+    "@tooshortusername" : {
+        "description" : "Error message when too short username"
+    },
+
+    "tooshortpasw" : "The password has to be at least 6 charecters",
+    "@tooshortpasw" : {
+        "description" : "Error message when too short password"
+    },
+
+    "paswnotmatch" : "The passwords do not match",
+    "@paswnotmatch" : {
+        "description" : "Error message when password does not match"
+    },
+
+    "invalidchar" : "Invalid character",
+    "@invalidchar" : {
+        "description" : "Error when invalid character"
+    },
+
+    "invalidemail" : "Invalid email address",
+    "@invalidemail" : {
+        "description" : "Error when invalid email"
+    },
+
+    "invalidphone" : "Invalid phone number",
+    "@invalidphone" : {
+        "description" : "Error when invalid phone number"
+    },
+
+    "fieldreq" : "Field required",
+    "@fieldrew" : {
+        "description" : "Error when field is empty"
+    },
+
+    "erroroccured" : "An error occured",
+    "@erroroccured" : {
+        "description" : "Title for error popup"
+    },
+
+    "cancel" : "Cancel",
+    "@cancel" : {
+        "description" : "Cancel text"
+    },
+
+    "logoutconfirm" : "Are you sure you want to log out?",
+    "@logoutconfirm" : {
+        "description" : "Log out confirmation text"
+    },
+    
+    "services" : "Services",
+    "@services" : {
+        "description" : "Services screen title"
+    },
+
+    "servicesnotaw" : "No service is available.",
+    "@servicesnotaw" : {
+        "description" : "No service message"
+    },
+
+    "add" : "Add",
+    "@add" :  {
+        "description" : "Text add"
+    },
+
+    "duration" : "Duration",
+    "@duration" :  {
+        "description" : "Text duration"
+    },
+
+    "servicedescription" : "Description",
+    "@servicedescription" :  {
+        "description" : "Text desription for the services"
+    },
+
+    "price" : "Price",
+    "@price" :  {
+        "description" : "Text price"
+    },
+
+    "delete" : "Delete",
+    "@delete" :  {
+        "description" : "Title to the popup delete"
+    },
+
+    "confirmservicedel" : "Are you sure you want to delete this Service?",
+    "@confirmservicedel" :  {
+        "description" : "Confirmation text for service delete."
+    },
+
+    "servicename" : "Service Name",
+    "@servicename" :  {
+        "description" : "Text stating service name"
+    },
+
+    "servicetype" : "Service Type",
+    "@servicetype" :  {
+        "description" : "Text stating service type"
+    },
+
+    "comment" : "Addition to price",
+    "@comment" :  {
+        "description" : "Text stating the comment to a price"
+    },
+
+    "submit" : "Submit",
+    "@submit" :  {
+        "description" : "Text stating submit"
+    },
+
+    "menu" : "",
+    "@menu" :  {
+        "description" : "Menu screen name"
+    },
+
+    "aboutme" : "About Me",
+    "@aboutme" :  {
+        "description" : "About me screen name"
+    },
+
+    "calendar" : "Calendar",
+    "@calendar" :  {
+        "description" : "Calendar screen name"
+    },
+
+    "myreservations" : "My Reservations",
+    "@myreservatios" :  {
+        "description" : "The name of my services"
+    },
+
+    "choosedate" : "Choose Date",
+    "@choosedate" :  {
+        "description" : "Text stating submit"
+    },
+
+    "type" : "Type",
+    "@type" :  {
+        "description" : "Text stating type"
+    },
+
+    "name" : "Name",
+    "@name" :  {
+        "description" : "Text stating name"
+    },
+
+    "submitted" : "Submitted",
+    "@submitted" :  {
+        "description" : "Text stating submitted"
+    },
+
+    "confirmreservationdel" : "Are you sure you want to delete this reservation?",
+    "@confirmreservationdel" :  {
+        "description" : "Text for confirming reservation delete"
+    },
+
+    "confirmappointmentdel" : "Are you sure you want to delete this appointment?",
+    "@confirmappointmentdel" :  {
+        "description" : "Text for confirming appointment delete"
+    },
+
+    "selectstarttime" : "Select the starting time",
+    "@selectstarttime" :  {
+        "description" : "Text that tells to select a starting time"
+    },
+
+    "selectendtime" : "Select the ending time",
+    "@selectendtime" :  {
+        "description" : "Text that tells to select the ending time"
+    },
+
+    "timeperiod" : "Time period",
+    "@timeperiod" :  {
+        "description" : "Text telling the time period"
+    },
+
+    "noavailableappointment" : "Sorry there is no available appointment for this month yet.",
+    "@noavailableappointment" :  {
+        "description" : "Erro message when there is no available appointment"
+    },
+
+    "book" : "Book",
+    "@book" :  {
+        "description" : "Text stating book"
+    },
+
+    "confirm" : "Confirmation",
+    "@confirm" :  {
+        "description" : "Asking for confirmation"
+    },
+
+    "bookinginfo" : "Your booking information",
+    "@bookinginfo" :  {
+        "description" : "booking confirm info text"
+    },
+
+    "date" : "Date",
+    "@date" :  {
+        "description" : "Text stating date"
+    },
+
+    "finalquestionbooking" : "Are you sure you want to book this appointment?",
+    "@finalquestionbooing" :  {
+        "description" : "Text asking for a final confimation booking."
+    },
+
+    "startingtimeinval" : "Startingtime is after the ending",
+    "@startingtomeinval" :  {
+        "description" : "Error when teh time intervall is not right"
+    },
+
+    "invalidtimeererror" : "Appointment at this time already exist",
+    "@invalidtimeerror" :  {
+        "description" : "Error when there is already an appointment at that time"
+    },
+
+    "noreservationavailable" : "You do not have any reservations yet",
+    "@noreservationavailable" :  {
+        "description" : "Text when there is not available reservation"
+    },
+
+    "service" : "Service",
+    "@service" :  {
+        "description" : "Text stating sercvice"
+    },
+
+    "intro" : "Introduction",
+    "@intro" :  {
+        "description" : "Introduction text"
+    },
+
+    "location" : "Location",
+    "@location" :  {
+        "description" : "hom screen location"
+    },
+
+    "county" : "County",
+    "@county" :  {
+        "description" : "home screen for the county"
+    },
+
+    "exactadress" : "Address",
+    "@exactadress" :  {
+        "description" : "Text for the address"
+    },
+
+    "contact" : "Contact",
+    "@contact" :  {
+        "description" : "Contact text"
+    },
+
+    "shortintro" : "Short Introduction",
+    "@shortintro" :  {
+        "description" : "Short info on the about me screen"
+    },
+
+    "myvision" : "My Vision",
+    "@myvision" :  {
+        "description" : "My vision text on the about me screen"
+    },
+
+    "educations" : "Qualifications",
+    "@educations" :  {
+        "description" : "Education text about me screen"
+    },
+
+    "homescreenedit" : "Edit Home Screen",
+    "@homescreenedit" : {
+        "description" : "Home Screen editer title"
+    },
+
+    "title" : "Title",
+    "@title" : {
+        "description" : "Title text for editing"
+    },
+
+    "subtitle" : "Subtitle",
+    "@subtitle" : {
+        "description" : "Subtitle text for editing"
+    },
+
+    "slogan" : "Slogan",
+    "@slogan" : {
+        "description" : "Text for slogan"
+    },
+
+    "news" : "News",
+    "@news" : {
+        "description" : "Text for the news"
+    },
+
+    "addvertisement" : "Advertisement",
+    "@addvertisement" : {
+        "description" : "Title text for advertisement"
+    },
+    
+    "aboutmescreenedit" : "Edit About Me Screen",
+    "@aboutmescreenedit" : {
+        "description" : "Home Screen editer title"
+    },
+
+    "editaccount" : "Edit Account",
+    "@editaccount" : {
+        "description" : "The text to edit account details"
+    },
+
+    "changepasw" : "Change Password",
+    "@changepasw" : {
+        "description" : "The text to change password"
+    },
+
+    "newtext" : "New",
+    "@new" : {
+        "description" : "Text saying New"
+    },
+
+    "change" : "Change",
+    "@change" : {
+        "description" : "Text saying change"
+    },
+
+    "passwordconfirm" : "Are you sure you want to change your password?",
+    "@passwordconfirm" : {
+        "description" : "Confiramtion text for changing password"
+    },
+    
+    "deleteyouraccount" : "Are you sure you want to delete your account with all your data?",
+    "@deleteyouraccount" : {
+        "description" : "This is the confirmation for deleting you account"
+    },
+
+    "deleteaccountbutton" : "Delete account with all data!",
+    "@deleteaccountbutton" : {
+        "description" : "Button text for deleting all acount data"
+    },
+
+    "notcorrectusername" : "The username is not correct!",
+    "@notcorrectusername" : {
+        "description" : "Error code for not correct username"
+    },
+
+    "editusers" : "Users",
+    "@editusers" : {
+        "description" : "Edit screen title"
+    },
+
+    "nouseravailable" : "Users are not available",
+    "@nouseravailable" : {
+        "description" : "No user text"
+    },
+
+    "bann" : "Bann",
+    "@bann" : {
+        "description" : "Text to bann user"
+    },
+
+    "allowuser" : "Allow User",
+    "@allowuser" : {
+        "description" : "Allow user text"
+    },
+
+    "alluser" : "All",
+    "@alluser" : {
+        "description" : "All user chategory"
+    },
+
+    "users" : "User",
+    "@users" : {
+        "description" : "Users chategory"
+    },
+
+    "bannedusers" : "Banned",
+    "@bannedusers" : {
+        "description" : "Banned chategory"
+    },
+
+    "admins" : "Admin",
+    "@admins" : {
+        "description" : "Admin chategory"
+    },
+
+    "accesslevel" : "Accesslevel",
+    "@accesslevel" : {
+        "description" : "access level text"
+    },
+
+    "minutes" : "min",
+    "@minutes" : {
+        "description" : "teh duration minutes text"
+    },
+
+    "loadingtxt" : "Loading...",
+    "@loadingtxt" : {
+        "description" : "text for loading"
+    },
+
+    "imgnonavailable" : "Image is not available",
+    "@imginoavailable" : {
+        "description" : "The image is not available"
+    },
+
+    "changepic" : "Change picture:",
+    "@changepic" : {
+        "description" : "The text to chage the picture"
+    }
+}
